@@ -43,14 +43,15 @@ data_driven_testing_concepts/
 
 ⚙️ Features
 
-🔹 XLUtilities.py
+🔹 XLUtilities.py:
 
 Custom utility class created to handle Excel operations:
 Read data from Excel
 Write data to Excel
 Fill cell with color (Hex format)
 
-🔹 Login Automation (login.py)
+🔹 Login Automation (login.py):
+
 Automates login functionality (Instagram)
 Reads username & password from Excel (login-usha.xlsx)
 Executes login using Selenium
@@ -59,11 +60,12 @@ Writes result back into Excel:
 ✅ Passed → Valid credentials
 ❌ Failed → Invalid credentials
 
-🔹 Basic Data-Driven Script (basic.py)
+🔹 Basic Data-Driven Script (basic.py):
+
 Demonstrates simple read,write and fill colour operations.
 Data is written in basic.xlxs file.
 
-▶️ How It Works
+▶️ How It Works:
 Test data (username & password) is stored in Excel file
 Script reads data row by row
 Selenium performs login operation
