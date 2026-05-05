@@ -5,7 +5,7 @@ This repository demonstrates the core concepts of Data-Driven Testing (DDT) usin
 
 It is a learning-focused implementation, where test data is stored externally (Excel) and used to drive test execution.
 
-The project shows how to:
+The reposhows how to:
 
 Read test data from Excel files
 
