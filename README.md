@@ -1,4 +1,4 @@
-Data Driven Testing Concepts
+
 📌 Overview
 
 This repository demonstrates the core concepts of Data-Driven Testing (DDT) using Python and Selenium.
