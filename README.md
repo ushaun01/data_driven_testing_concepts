@@ -46,18 +46,28 @@ data_driven_testing_concepts/
 🔹 XLUtilities.py:
 
 Custom utility class created to handle Excel operations:
+
 Read data from Excel
+
 Write data to Excel
+
 Fill cell with color (Hex format)
+
 
 🔹 Login Automation (login.py):
 
 Automates login functionality (Instagram)
+
 Reads username & password from Excel (login-usha.xlsx)
+
 Executes login using Selenium
+
 Verifies login success or failure
+
 Writes result back into Excel:
+
 ✅ Passed → Valid credentials
+
 ❌ Failed → Invalid credentials
 
 🔹 Basic Data-Driven Script (basic.py):
