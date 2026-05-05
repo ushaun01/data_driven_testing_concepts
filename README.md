@@ -18,10 +18,15 @@ Write results back into the Excel file
 🧠 Key Concepts Covered
 
 Data-Driven Testing (DDT)
+
 External test data handling (Excel)
+
 Read,Write and fill colour operations in Excel using utility class
+
 Basic test validation (login success/failure)
+
 Result logging back to test data file
+
 
 📂 Project Structure
 
