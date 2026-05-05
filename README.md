@@ -83,10 +83,14 @@ Result is validated
 Output (Pass/Fail) is written back into Excel
 
 🛠️ Tech Stack
+
 Python
+
 Selenium WebDriver
+
 OpenPyXL
-CSV Module
+
+Excel
 
 🚀 Purpose
 
