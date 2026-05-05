@@ -6,7 +6,7 @@ It is a learning-focused implementation, where test data is stored externally (E
 
 The project shows how to:
 
-Read test data from Excel/CSV files
+Read test data from Excel files
 Perform automated login testing
 Validate results (Pass/Fail)
 Write results back into the Excel file
